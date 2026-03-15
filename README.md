@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tafskid
 - 🌱 I’m currently working as backend engineer/ data analytical engineer
-- 📫 you can reach me at rasheedakindele4@gmail.com
+- 📫 you can reach me at dremej4@gmail.com
 
 <!---
 tafskid/tafskid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
